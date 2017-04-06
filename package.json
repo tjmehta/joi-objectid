@@ -6,8 +6,16 @@
   "scripts": {
     "test": "make test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pebble/joi-objectid"
+  },
   "author": "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pebble/joi-objectid/issues"
+  },
+  "homepage": "https://github.com/pebble/joi-objectid#README",
   "devDependencies": {
     "joi": "^4.6.2",
     "mocha": "^3.2.0"
